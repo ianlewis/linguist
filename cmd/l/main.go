@@ -10,7 +10,7 @@ import (
 	"sort"
 
 	"github.com/dayvonjersen/git4go"
-	"github.com/dayvonjersen/linguist"
+	"github.com/ianlewis/linguist"
 )
 
 func checkErr(err error) {

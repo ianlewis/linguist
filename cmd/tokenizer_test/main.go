@@ -7,7 +7,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/dayvonjersen/linguist/tokenizer"
+	"github.com/ianlewis/linguist/tokenizer"
 )
 
 func checkErr(err error) {

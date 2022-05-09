@@ -8,10 +8,10 @@ Prerequisites:
 
 Installation:
 
-    mkdir -p $GOPATH/src/github.com/dayvonjersen/linguist
-    git clone --depth=1 https://github.com/dayvonjersen/linguist $GOPATH/src/github.com/dayvonjersen/linguist
-    go get -d github.com/dayvonjersen/linguist
-    cd $GOPATH/src/github.com/dayvonjersen/linguist
+    mkdir -p $GOPATH/src/github.com/ianlewis/linguist
+    git clone --depth=1 https://github.com/ianlewis/linguist $GOPATH/src/github.com/ianlewis/linguist
+    go get -d github.com/ianlewis/linguist
+    cd $GOPATH/src/github.com/ianlewis/linguist
     make
     l
 
@@ -19,11 +19,11 @@ Usage:
 
 Please refer to the source code for the reference implementation at:
 
-https://github.com/dayvonjersen/linguist/tree/master/cmd/l
+https://github.com/ianlewis/linguist/tree/master/cmd/l
 
 
 See also:
 
-https://github.com/dayvonjersen/linguist/tree/master/tokenizer
+https://github.com/ianlewis/linguist/tree/master/tokenizer
 */
 package linguist
