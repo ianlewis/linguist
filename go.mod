@@ -1,4 +1,4 @@
-module github.com/dayvonjersen/linguist
+module github.com/ianlewis/linguist
 
 go 1.16
 
